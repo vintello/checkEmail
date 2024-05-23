@@ -1,0 +1,2 @@
+class TooFequently(Exception):
+    pass
